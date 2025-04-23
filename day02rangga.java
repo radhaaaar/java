@@ -13,7 +13,7 @@ public class day02rangga {
 
         /*=============== challenge matrix ==============*/
         //displayMatrix(matrixDiagonal1(5,5));
-        //displayMatrix(matrixDiagonal(10,10));
+        //displayMatrix(matrixDiagonal2(10,10));
         //displayMatrix(matrixDiagonal3(7));
         displayMatrix(matrixDiagonal4(8));
 
