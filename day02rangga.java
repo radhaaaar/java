@@ -130,7 +130,7 @@ public class day02rangga {
         }
 
         // Sort the odd numbers (from left to arr.length-1) using Bubble Sort
-        for (int i = left; i < arr.length - 1; i++) {
+        for (int i = 0; i < arr.length - 1; i++) {
             for (int j = left; j < arr.length - i - 1; j++) {
                 if (arr[j] > arr[j + 1]) {
                     // Swap if the element is greater than the next one
